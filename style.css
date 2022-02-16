@@ -6,7 +6,7 @@
   box-sizing: border-box;
 }
 
-/* Remove default margin */ 
+/* Remove default margin */
 body,
 h1,
 h2,
@@ -448,8 +448,9 @@ header {
 .scenery-2 {
   border-radius: 5px;
   margin-right: 1rem;
-  min-width: 250px;
-  max-height: 385px;
+  max-height: 50%;
+  max-width: 50%;
+  margin-bottom: 1rem;
 }
 
 /*# sourceMappingURL=style.css.map */
