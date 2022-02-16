@@ -1,0 +1,248 @@
+.flex {
+    display: flex;
+}
+
+.row {
+    flex-direction: row;
+}
+
+/* reverse row */
+.row-r {
+    flex-direction: row-reverse;
+}
+
+.column {
+    flex-direction: column;
+}
+
+/* reverse column */
+.column-r {
+    flex-direction: column-reverse;
+}
+
+/* justify content */
+.just-con-center {
+    justify-content: center;
+}
+
+.just-con-left {
+    justify-content: left;
+}
+
+.just-con-right {
+    justify-content:right;
+}
+
+.just-con-start {
+    justify-content: flex-start;
+}
+
+.just-con-end {
+    justify-content: flex-end;
+}
+
+/* justify content spacing */
+.just-con-space-a {
+    justify-content: space-around;
+}
+
+.just-con-space-b {
+    justify-content: space-between;
+}
+
+.just-con-space-e {
+    justify-content: space-evenly;
+}
+
+/* justify items */
+
+.just-items-center {
+    justify-items: center;
+}
+
+.just-items-left {
+    justify-items: left;
+}
+
+.just-items-right {
+    justify-items: right;
+}
+
+.just-items-start {
+    justify-items: flex-start;
+}
+
+.just-items-end {
+    justify-items: flex-end;
+}
+
+/* justify self */
+
+.just-self-center {
+    justify-self: center;
+}
+
+.just-self-left {
+    justify-self: left;
+}
+
+.just-self-right {
+    justify-self: right;
+}
+
+.just-self-start {
+    justify-self: flex-start;
+}
+
+.just-self-end {
+    justify-self: flex-end;
+}
+
+
+// /* align items */
+
+.a-items-center {
+    align-items: center;
+}
+
+.a-items-start {
+    align-items: flex-start;
+}
+
+.a-items-end {
+    align-items: flex-end;
+}
+
+// /* align self */
+
+.a-self-center {
+    align-self: center;
+}
+
+.a-self-start {
+    align-self: flex-start;
+}
+
+.a-self-end {
+    align-self: flex-end;
+}
+
+// /* align content */
+
+.a-con-center {
+    align-content: center;
+}
+
+.a-con-start {
+    align-content: flex-start;
+}
+
+.a-con-end {
+    align-content: flex-end;
+}
+
+// /* align content spacing */
+
+.a-con-space-a{
+    align-content: space-around;
+}
+
+.a-con-space-b {
+    align-content: space-between;
+}
+
+/* wrap utilities */
+
+.wrap {
+    flex-wrap: wrap;
+}
+
+.no-wrap {
+    flex-wrap: nowrap;
+}
+
+/* positions */
+
+.pos-static {
+    position: static;
+}
+
+.pos-fixed {
+    position: fixed;
+}
+
+.pos-relative {
+    position: relative
+}
+
+.pos-sticky {
+    position: sticky;
+}
+
+.pos-absolute {
+    position: absolute;
+}
+
+/* width percentage settings */
+
+.w-25 {
+    width: 25%;
+}
+
+.w-50 {
+    width: 50%;
+}
+
+.w-70 {
+    width: 70%;
+}
+
+.w-75 {
+    width: 75%;
+}
+
+.w-80 {
+    width: 80%;
+}
+
+.w-90 {
+    width: 90%;
+}
+
+.w-100 {
+    width: 100%;
+}
+
+/* height percentage settings */
+
+.h-25 {
+    height: 25%;
+}
+
+.h-50 {
+    height: 50%;
+}
+
+.h-75 {
+    height: 75%;
+}
+
+.h-100 {
+    height: 100%;
+}
+
+/* margin utilities */
+/* adding more later */
+
+.m0-auto {
+    margin: 0 auto;
+}
+
+/* padding utilities */
+/* coming soon */
+
+/* gap utilities */
+/* coming soon */
+
+
+

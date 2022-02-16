@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200;300;400;500;600;700;800&family=Karla:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,200;1,300;1,400;1,500;1,600;1,700;1,800&family=Pacifico&display=swap');
+
+:root {
+    // border sizes, feel free to insert your own custom sizes
+    --border-size-sm: 2px;
+    --border-size-m: 5px;
+    --border-size-l: 8px;
+    --border-size-xl: 10px;
+
+    // border type, choose between solid, double, dotted
+    --border-type-main: solid;
+    --border-type-secondary: double;
+    --border-type-tertiary: dotted;
+
+    // default color scheme. Change to what you want
+    --color-primary: #ff70a6;
+    --color-secondary: #70d6ff;
+    --color-tertiary: #ff9770;
+    --color-success: #60c760;
+    --color-danger: #e23c3c;
+    --color-warning: #ffd670;
+    --color-info: #2c78db;
+    --color-medium: #726c6e;
+    --color-light: #e9dcdc;
+    --color-dark: #301a1a;
+
+    // unique to this file
+    --color-dark-blue: #1C658C;
+    --color-light-blue: #398AB9;
+    --color-light-tan: #D8D2CB;
+    --color-light-grey: #EEEEEE;
+    --dosis: 'Dosis', sans-serif;
+    --karla: 'Karla', sans-serif;
+    --pacifico: 'Pacifico', cursive;
+}
+
